@@ -1,6 +1,0 @@
-Flask
-Flask-Cors
-gunicorn
-firebase-admin
-Pyrebase4
-setuptools
